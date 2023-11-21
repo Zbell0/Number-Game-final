@@ -83,6 +83,20 @@ body{
     .title{
       font-size: 50px;
     }
+    .result{
+      font-size: 45
+    }
+    .main-image{
+      width: 30vw;
+      height: 30vh
+    }
+    .control{
+      width: 330px;
+      height: 70px;
+    }
+    button{
+      align-items: center;
+    }
 
 
   }
